@@ -1,7 +1,9 @@
 # worldsim
 WorldSim is my personal project. I want to develop a cloud based GIS that supports IoT. This means we are going to virtualize everything that in the world. Imagine using Google Earth as a first-person simulator and seeing people walking and cars moving around in real-time.
 
-Every robot can connect to the Internet and load a virtual model of Earth on itself. This will allow it to contribute its local information to the cloud system as well as access and use data of unknown environments. Thus, a global environment modelling tool can be deployed for use in Robotics.
+Every robot can connect to the Internet and load a virtual model of WorldSim on itself. This will allow it to use its sensors to contribute its local information to the cloud system, as well as access and use data of unknown environments, from other robots, from the cloud. Thus, a global environment modelling tool can be deployed for use in Robotics. 
+
+P.S: This can also enable humans to experience the world in AR or VR. (Example: HBO: Westworld simulations)
 
 **GIS Roadmap:**
  - Topography Data: Land/Sea + Height Map
@@ -18,6 +20,7 @@ Level of Layers:
 ![Visual](https://upload.wikimedia.org/wikipedia/commons/7/73/Visual_Representation_of_Themes_in_a_GIS.jpg)
 
 Can we eventually model every voxel in the universe ?
+This knowledge base will be complemetary to my ROSCOG project (brain for a robot).
 
 
 **Planet > Continents > Countries > States    > City/Town    > District > Road/Street Address > Co-ordinates (x,y,z)**
