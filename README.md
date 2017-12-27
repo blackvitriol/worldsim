@@ -5,7 +5,11 @@ Every robot can connect to the Internet and load a virtual model of WorldSim on 
 
 P.S: This can also enable humans to experience the world in AR or VR. (Example: HBO: Westworld simulations)
 
-**GIS Roadmap:**
+**Simulation**: Earth and layers, to account for depth (underground). estimate of core to surface to atmosphere. voxel mapping according to imperial units. eventually we can use earth as reference point when mapping voxels in universe.
+
+*we might need a linear time scale, as well as a new unit of 4-dim vector, to store 3-d values plus time at which state was recorded.*
+
+**Surface: GIS Roadmap:**
  - Topography Data: Land/Sea + Height Map
  - Boundaries: Continents, Countries...see below
  - Street Data: Roads and Addreses.
